@@ -24,7 +24,7 @@ console.log("cantidad de parrafos:"+parrafos.length);
 //parrafos[0].textContent = "Primer párrafo actualizado";
 
 
-for(i=0 ; i < parrafos.length; i++){
+//for(i=0 ; i < parrafos.length; i++){
     parrafos[i].textContent = "Párrafo "+i+ " actualizado";
 }
 */
