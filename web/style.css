@@ -16,6 +16,6 @@
 
 .accesibilidad{
     background-color: #1a1a1a;
-    color: #e0e0e0;
-    /*filter: sepia(100%);*/ /* Tonos más cálidos para la vista
+    color: yellow;
+    filter: sepia(60%); /* Tonos más cálidos para la vista*/
 }

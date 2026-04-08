@@ -51,7 +51,7 @@ boton.addEventListener('click',() => {
 
     console.log("Evento capturado. El usuario interactuó.");
     //alert("Interacción detectada");
-    //document.body.classList.toggle('accesibilidad');
+    document.body.classList.toggle('accesibilidad');
     
 });
 
